@@ -82,7 +82,7 @@
             echo "<script>
                 alert('Welcome to Book.Things, $fname!');
                 setTimeout(function() {
-                    window.location.href = './user/order.php'; 
+                    window.location.href = './user/userHome.php'; 
                 }, 100); 
             </script>";
 
